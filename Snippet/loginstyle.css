@@ -1,0 +1,25 @@
+form{
+    padding-top:100px;
+    }
+#form-align{
+      padding:10px; 
+
+    }
+.control-label{
+     padding-left:7px;
+    }
+#checkbox-align{
+     padding-left:5px;
+    }
+#button-size{
+    width:250px;
+    padding-right:10px;
+}
+#rightside{
+    background-color:white;
+    }
+#button-size1{
+    width:250px;
+    margin-top:10px;
+    padding-right:10px;
+}

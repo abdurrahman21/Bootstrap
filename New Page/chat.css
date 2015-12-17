@@ -1,0 +1,53 @@
+.navbar-default{
+	height: 48px;
+}
+#navbar-top{
+	background-color:  #339966;
+}
+#navbar-brandcolor{
+	color: white;
+}
+#navbar-color{
+	color: white;
+	height: 48px;
+	font-size: 17px;
+	font-family: "Times New Roman";
+}
+#navbar-color:hover{
+	color: #339966;
+	background-color: white;
+	height: 48px;
+}
+#navbar-color:focus{
+	color: #339966;
+	background-color: white;
+	height: 48px;
+}
+#dropdown-color:hover{
+	color: white;
+	background-color: #339966;
+	
+}
+#dropdown-color:focus{
+	color: white;
+	background-color: #339966;
+	
+}
+<!---Carousel---!>
+
+.carousel-inner > .item >img, 
+.carousel-inner > .item > a > img{
+
+	width: 70%;
+	margin:auto;
+}
+#mycarousel{
+
+	height: 275px;
+	background-color: white;
+	border:1px solid black;
+}
+#image{
+	padding-left: 350px;
+	padding-top:  20px;
+}
